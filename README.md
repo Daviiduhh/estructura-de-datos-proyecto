@@ -17,7 +17,7 @@ agregar_inicio();
 agregar_inicio();
 size();
 
-**Código ** 
+**Código** 
 
 https://github.com/Daviiduhh/arreglo-dinamico
 
@@ -83,15 +83,15 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código ** 
+**Código** 
 
 https://github.com/Daviiduhh/lista-simplemente-ligada
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
-Conclusiones
+**Conclusiones**
 
-Referencias
+**Referencias**
 
 
 #### Lista doblemente ligada
@@ -100,15 +100,15 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código ** 
+**Código** 
 
 https://github.com/Daviiduhh/lista-doblemente-ligada 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
-Conclusiones
+**Conclusiones**
 
-Referencias
+**Referencias**
 
 
 #### Listas circulares
@@ -117,15 +117,15 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código ** 
+**Código** 
 
 https://github.com/Daviiduhh/lista-circular 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
-Conclusiones
+**Conclusiones**
 
-Referencias
+**Referencias**
 
 
 #### Pila
@@ -134,15 +134,15 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código ** 
+**Código** 
 
 https://github.com/Daviiduhh/pilas-y-colas 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
-Conclusiones
+**Conclusiones**
 
-Referencias
+**Referencias**
 
 
 #### Cola
@@ -151,15 +151,15 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código ** 
+**Código** 
 
 https://github.com/Daviiduhh/pilas-y-colas 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
-Conclusiones
+**Conclusiones**
 
-Referencias
+**Referencias**
 
 
 #### Árbol binario de búsqueda
@@ -168,15 +168,15 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código ** 
+**Código** 
 
 https://github.com/Daviiduhh/arbol-busqueda-binaria 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
-Conclusiones
+**Conclusiones**
 
-Referencias
+**Referencias**
 
 
 #### Grafo
@@ -185,13 +185,13 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código ** 
+**Código** 
 
 
 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
-Conclusiones
+**Conclusiones**
 
-Referencias
+**Referencias**
