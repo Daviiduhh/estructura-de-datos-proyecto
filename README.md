@@ -8,7 +8,9 @@
 
 #### Arreglo dinamico
 
-Es un array de elementos que crece dinámicamente conforme los elementos se agregan o se eliminan. El dinamismo de la longitud del arreglo es lo que lo convierte en un arreglo donamico y no uno estatico de longitud definida.
+Es un array de elementos que crece dinámicamente conforme los elementos se agregan o se eliminan.
+
+El dinamismo de la longitud del arreglo es lo que lo convierte en un arreglo donamico y no uno estatico de longitud definida.
 
 **Metodos: **
 agregar_inicio();
@@ -19,36 +21,58 @@ size();
 https://github.com/Daviiduhh/arreglo-dinamico
 
 **Insertar final**
+
 ./main.exe
 Insertados al final
+
 1
+
 2
+
 3
+
 4
+
 5
+
 6
+
 7
-8
-Insertados al inicio
--1
-0
-1
-2
-3
-4
-5
-6
-7
+
 8
 
-**Conclusiones:**
+Insertados al inicio
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+**Conclusiones**
+
 Me pareció muy útil el uso de arreglos dinámicos, se me hizo muy útil y muy practico que para
 aumentar el tamaño de este se pueda crear uno nuevo y pasarle la información del anterior.
 Con esta modificación a los arreglos les da muchas posibilidades más, y se les pueden dar muchas
 más aplicaciones.
 Con el video fui fácil aplicar los mismos arreglos dinámicos, pero para strings.
 
-**Referencias:**
+**Referencias**
+
 https://www.youtube.com/watch?v=tozHXqXI3Js, Memoria dinámica, Michel Davalos Boites.
 
 
