@@ -12,14 +12,14 @@ Es un array de elementos que crece dinámicamente conforme los elementos se agre
 
 El dinamismo de la longitud del arreglo es lo que lo convierte en un arreglo donamico y no uno estatico de longitud definida.
 
-**Metodos: **
-agregar_inicio();
-agregar_inicio();
-size();
+**Metodos**
+- agregar_inicio();
+- agregar_inicio();
+- size();
 
 **Código** 
 
-https://github.com/Daviiduhh/arreglo-dinamico
+*[GitHub](https://github.com/Daviiduhh/arreglo-dinamico)*
 
 **Insertar final**
 
@@ -79,19 +79,32 @@ https://www.youtube.com/watch?v=tozHXqXI3Js, Memoria dinámica, Michel Davalos B
 
 #### Lista simplemente ligada
 
-Definición y características de la Estructura de Datos.
+Una lista enlazada simple es una estructura de datos en la que cada elemento, generalmente nodos, apunta al siguiente. De este modo, teniendo la referencia del principio de la lista podemos acceder a todos los elementos de la misma.
 
-Describe los métodos u operaciones que tiene la Estructura de Datos.
+- push_front();
+- push_back();
+- pop_front();
+- pop_back();
+- size();
+- print();
 
 **Código** 
 
-https://github.com/Daviiduhh/lista-simplemente-ligada
+*[GitHub](https://github.com/Daviiduhh/lista-simplemente-ligada)*
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
 **Conclusiones**
 
+La manera de llevar las listas con ligas hacia el siguiente nodo se me hace interesante, ya que cada
+nodo contiene dos datos, su valor y algo que lo vincula a siguiente nodo. Y el uso de -> se me hace
+una manera muy interesante de como se lleva la implementación.
+
 **Referencias**
+
+https://www.youtube.com/watch?v=mmRfQxiP7b8, Lista Ligada (I), Michel Davalos Boites.
+https://www.youtube.com/watch?v=wDDIH92zM90, Lista Ligada (II), Michel Davalos Boites.
+https://www.youtube.com/watch?v=QcghZvKTFXA, Lista Ligada (III), Michel Davalos Boites.
 
 
 #### Lista doblemente ligada
@@ -102,7 +115,7 @@ Describe los métodos u operaciones que tiene la Estructura de Datos.
 
 **Código** 
 
-https://github.com/Daviiduhh/lista-doblemente-ligada 
+*[GitHub](https://github.com/Daviiduhh/lista-doblemente-ligada)*
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -119,7 +132,7 @@ Describe los métodos u operaciones que tiene la Estructura de Datos.
 
 **Código** 
 
-https://github.com/Daviiduhh/lista-circular 
+*[GitHub](https://github.com/Daviiduhh/lista-circular)*
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -136,7 +149,7 @@ Describe los métodos u operaciones que tiene la Estructura de Datos.
 
 **Código** 
 
-https://github.com/Daviiduhh/pilas-y-colas 
+*[GitHub](https://github.com/Daviiduhh/pilas-y-colas)*
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -153,7 +166,7 @@ Describe los métodos u operaciones que tiene la Estructura de Datos.
 
 **Código** 
 
-https://github.com/Daviiduhh/pilas-y-colas 
+*[GitHub](https://github.com/Daviiduhh/pilas-y-colas)*
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -170,7 +183,7 @@ Describe los métodos u operaciones que tiene la Estructura de Datos.
 
 **Código** 
 
-https://github.com/Daviiduhh/arbol-busqueda-binaria 
+*[GitHub](https://github.com/Daviiduhh/arbol-busqueda-binaria)*
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -187,7 +200,7 @@ Describe los métodos u operaciones que tiene la Estructura de Datos.
 
 **Código** 
 
-
+*[GitHub](https://github.com/Daviiduhh/)*
 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
