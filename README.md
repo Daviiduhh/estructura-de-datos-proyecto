@@ -18,6 +18,7 @@ agregar_inicio();
 size();
 
 **Código: **
+
 https://github.com/Daviiduhh/arreglo-dinamico
 
 **Insertar final**
@@ -82,7 +83,10 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código: **https://github.com/Daviiduhh/lista-simplemente-ligada
+**Código: **
+
+https://github.com/Daviiduhh/
+lista-simplemente-ligada
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -97,7 +101,10 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código: **https://github.com/Daviiduhh/lista-doblemente-ligada 
+**Código: **
+
+https://github.com/Daviiduhh/
+lista-doblemente-ligada 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -112,7 +119,10 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código: **https://github.com/Daviiduhh/lista-circular 
+**Código: **
+
+https://github.com/Daviiduhh/
+lista-circular 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -127,7 +137,10 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código: **https://github.com/Daviiduhh/pilas-y-colas 
+**Código: **
+
+https://github.com/Daviiduhh/
+pilas-y-colas 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -142,7 +155,10 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código: **https://github.com/Daviiduhh/pilas-y-colas 
+**Código: **
+
+https://github.com/Daviiduhh/
+pilas-y-colas 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -157,7 +173,10 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código: **https://github.com/Daviiduhh/arbol-busqueda-binaria 
+**Código: **
+
+https://github.com/Daviiduhh/
+arbol-busqueda-binaria 
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
@@ -172,7 +191,10 @@ Definición y características de la Estructura de Datos.
 
 Describe los métodos u operaciones que tiene la Estructura de Datos.
 
-**Código: ** 
+**Código: **
+
+
+
 
 Prueba de la ejecución de el uso de la Estructura de Datos.
 
