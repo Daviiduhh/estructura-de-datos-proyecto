@@ -6,13 +6,13 @@
 ## Estructura de datos I
 
 
-#### Arreglo dinamico
+### Arreglo dinamico
 
 Es un array de elementos que crece dinámicamente conforme los elementos se agregan o se eliminan.
 
 El dinamismo de la longitud del arreglo es lo que lo convierte en un arreglo dinamico y no uno estatico de longitud definida.
 
-**Metodos**
+**Métodos**
 - agregar_inicio();
 - agregar_inicio();
 - size();
@@ -76,7 +76,7 @@ Con el video fui fácil aplicar los mismos arreglos dinámicos, pero para string
 https://www.youtube.com/watch?v=tozHXqXI3Js, Memoria dinámica, Michel Davalos Boites.
 
 
-#### Lista simplemente ligada
+### Lista simplemente ligada
 
 Una lista enlazada simple es una estructura de datos en la que cada elemento, generalmente nodos, apunta al siguiente. De este modo, teniendo la referencia del principio de la lista podemos acceder a todos los elementos de la misma.
 
@@ -133,11 +133,11 @@ https://www.youtube.com/watch?v=wDDIH92zM90, Lista Ligada (II), Michel Davalos B
 https://www.youtube.com/watch?v=QcghZvKTFXA, Lista Ligada (III), Michel Davalos Boites.
 
 
-#### Lista doblemente ligada
+### Lista doblemente ligada
 
 Es una estructura de datos que consiste en un conjunto de nodos enlazados secuencialmente. Cada nodo contiene tres campos, dos para los llamados enlaces, que son referencias al nodo siguiente y al anterior en la secuencia de nodos, y otro más para el almacenamiento de la información. 
 
-**Metodos**
+**Métodos**
 
 - empty();
 - push_front();
@@ -220,11 +220,11 @@ Mi mayor dificultad fue haber confundido la actividad 13 con la 12, implementé 
 https://www.youtube.com/watch?v=5VQj3Ep2RMI&t=260s, Lista Doblemente Ligada (I), Michel Davalos Boites.
 https://www.youtube.com/watch?v=DOjuBkDDAMs, Lista Doblemente Ligada (II), Michel Davalos Boites.
 
-#### Listas circulares
+### Listas circulares
 
 Una lista circular es una lista lineal en la que el último nodo a punta al primero. Las listas circulares pueden ser simplemente enlazadas, o doblemente enlazadas.
 
-**Metodos**
+**Métodos**
 
 - insertarPrimero();
 - insertarUltimo();
@@ -263,74 +263,128 @@ La lista circular me resultó muy parecida a las otras listas enlazadas, con su 
 
 **Referencias**
 
-http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/listas_circulares.html#:~:text=Una%20lista%20circular%20es%20una,uno%20anterior%20y%20uno%20siguiente., listasCirculares, CIDECAME
+http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/listas_circulares.html#:~:text=Una%20lista%20circular%20es%20una,uno%20anterior%20y%20uno%20siguiente, listasCirculares, CIDECAME
 
 http://conclase.net/c/edd/cap4, Listas circulares, conclase
 
 
-#### Pila
+### Pila
 
-Definición y características de la Estructura de Datos.
+Una pila (stack en inglés) es una lista ordenada o estructura de datos que permite almacenar y recuperar datos, siendo el modo de acceso a sus elementos de tipo LIFO, del inglés Last In, First Out.
 
-Describe los métodos u operaciones que tiene la Estructura de Datos.
+**Métodos**
 
-**Código** 
-
-*[Repositorio](https://Repositorio.com/Daviiduhh/pilas-y-colas)*
-
-Prueba de la ejecución de el uso de la Estructura de Datos.
-
-**Conclusiones**
-
-**Referencias**
-
-
-#### Cola
-
-Definición y características de la Estructura de Datos.
-
-Describe los métodos u operaciones que tiene la Estructura de Datos.
+- push();
+- pop();
+- top();
+- size();
+- empty();
 
 **Código** 
 
 *[Repositorio](https://Repositorio.com/Daviiduhh/pilas-y-colas)*
 
-Prueba de la ejecución de el uso de la Estructura de Datos.
+**Prueba**
+
+Se pushearon -1, 0, 1, 2, 3
+
+-1
+
+3
+
+Eliminar por pop e imprime tamano
+
+4
+
+
+**Conclusiones**
+
+La estructura de datos de tipo pila se me hizo interesante, sobre todo por su funcionamiento LIFO, esta estructura de datos puede ser implementado en varias implementaciones, por ejemplo en los automatas de pila estas son parte fundamental para su funcionamiento, y estos automatas pueden ser aplicados en muchisimas areas.
+
+**Referencias**
+
+https://www.youtube.com/watch?v=235yQq2P-wc&feature=emb_imp_woyt, Pila, Michel
+Davalos Boites.
+
+### Cola
+
+Una cola es una estructura de datos, caracterizada por ser una secuencia de elementos en la que la operación de inserción push se realiza por un extremo y la operación de extracción pop por el otro. También se le llama estructura FIFO (del inglés First In First Out), debido a que el primer elemento en entrar será también el primero en salir.
+
+**Métodos**
+
+- push();
+- pop();
+- front();
+- back();
+- size();
+- empty();
+
+**Código** 
+
+*[Repositorio](https://Repositorio.com/Daviiduhh/pilas-y-colas)*
+
+**Prueba**
+
+Se pushea 10, 9, 8, 7
+
+Tamano
+
+4
+
+Imprime tope de la pila y se va desapilando
+
+7
+
+8
+
+9
+
+10
+
+Tamano
+
+0
+
 
 **Conclusiones**
 
 **Referencias**
 
+https://www.youtube.com/watch?v=hhsa8ENCZls, Cola, Michel
+Davalos Boites.
 
-#### Árbol binario de búsqueda
+
+### Árbol binario de búsqueda
 
 Definición y características de la Estructura de Datos.
 
-Describe los métodos u operaciones que tiene la Estructura de Datos.
+**Métodos**
+
 
 **Código** 
 
 *[Repositorio](https://Repositorio.com/Daviiduhh/arbol-busqueda-binaria)*
 
-Prueba de la ejecución de el uso de la Estructura de Datos.
+**Prueba**
 
 **Conclusiones**
 
 **Referencias**
 
 
-#### Grafo
+### Grafo
 
 Definición y características de la Estructura de Datos.
 
-Describe los métodos u operaciones que tiene la Estructura de Datos.
+**Métodos**
 
 **Código** 
 
 *[Repositorio](https://Repositorio.com/Daviiduhh/)*
 
 
-Prueba de la ejecución de el uso de la Estructura de Datos.
+**Prueba**
+
 
 **Conclusiones**
 
