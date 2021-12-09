@@ -357,10 +357,16 @@ Davalos Boites.
 
 ### Árbol binario de búsqueda
 
-Definición y características de la Estructura de Datos.
+La búsqueda en árboles binarios es un método de búsqueda simple, dinámico y eficiente considerado como uno de los fundamentales en Ciencia de la Computación.
 
 **Métodos**
 
+- crearNodo();
+- insertar();
+- preOrden();
+- enOrden();
+- postOrden();
+- verArbol();
 
 **Código** 
 
@@ -368,25 +374,97 @@ Definición y características de la Estructura de Datos.
 
 **Prueba**
 
+Numero de nodos del arbol:  5
+
+ Numero del nodo 1: 1
+
+ Numero del nodo 2: 2
+
+ Numero del nodo 3: 3
+
+ Numero del nodo 4: 4
+
+ Numero del nodo 5: 5
+
+ Mostrando ABB
+
+            5
+
+         4
+
+      3
+
+   2
+
+1
+
+ Recorridos del ABB
+
+ En orden   :  1 2 3 4 5
+
+ Pre Orden  :  1 2 3 4 5
+
+ Post Orden :  5 4 3 2 1
+
+
 **Conclusiones**
+
+Los árboles de búsqueda binaria son una excelente opción para poder relizar busquedas de una manera fácil, optima, y veloz. Su aplicación puede ser en cualquier busqueda que se necesite relizar.
 
 **Referencias**
 
+https://es.wikipedia.org/wiki/%C3%81rbol_binario_de_b%C3%BAsqueda, Árbol binario de búsqueda, Wikipedia.
+
+https://ccia.ugr.es/~jfv/ed1/tedi/cdrom/docs/arb_BB.htm, Joaquín Fernández Valdivia, ARBOLES BINARIOS DE BUSQUEDA.
 
 ### Grafo
 
-Definición y características de la Estructura de Datos.
+Es un conjunto de objetos llamados vértices o nodos unidos por enlaces llamados aristas o arcos, que permiten representar relaciones binarias entre elementos de un conjunto.
 
 **Métodos**
 
+- repetido();
+- empty();
+- agregarNodo()
+
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/)*
+*[Repositorio](https://github.com/Daviiduhh/grafos)*
 
 
 **Prueba**
 
+1.-Ingresar nodos
+
+2.-Mostrar grafo
+
+3.-Salir
+
+Elige una opcion-> 2
+
+2
+
+[('1', 10), ('3', 11)]
+
+1
+
+[('2', 10)]
+
+3
+
+[('2', 11), ('4', 12)]
+
+4
+
+[('3', 12)]
+
 
 **Conclusiones**
 
+Los grafos son estructuras muy amplias que pueden representar deversas situaciones o elementos. Resultan ser útiles en situaciones complejas, ya que se utilizan en estudios de ciencias exactas, ciencias sociales y aplicaciones informaticas.
+
 **Referencias**
+
+https://es.wikipedia.org/wiki/Grafo, Grafo, Wikipedia. 
+
+https://www.grapheverywhere.com/que-son-los-grafos/, Qué son los grafos, GRAPH EVERYWHERE.
