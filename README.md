@@ -19,7 +19,7 @@ El dinamismo de la longitud del arreglo es lo que lo convierte en un arreglo din
 
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/arreglo-dinamico)*
+*[Repositorio](https://github.com/Daviiduhh/arreglo-dinamico)*
 
 **Pruebas**
 
@@ -89,7 +89,7 @@ Una lista enlazada simple es una estructura de datos en la que cada elemento, ge
 
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/lista-simplemente-ligada)*
+*[Repositorio](https://github.com/Daviiduhh/lista-simplemente-ligada)*
 
 **Prueba**
 
@@ -155,7 +155,7 @@ Es una estructura de datos que consiste en un conjunto de nodos enlazados secuen
 
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/lista-doblemente-ligada)*
+*[Repositorio](https://github.com/Daviiduhh/lista-doblemente-ligada)*
 
 **Prueba**
 
@@ -235,7 +235,7 @@ Una lista circular es una lista lineal en la que el último nodo a punta al prim
 
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/lista-circular)*
+*[Repositorio](https://github.com/Daviiduhh/lista-circular)*
 
 **Prueba**
 
@@ -282,7 +282,7 @@ Una pila (stack en inglés) es una lista ordenada o estructura de datos que perm
 
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/pilas-y-colas)*
+*[Repositorio](https://github.com/Daviiduhh/pilas-y-colas)*
 
 **Prueba**
 
@@ -321,7 +321,7 @@ Una cola es una estructura de datos, caracterizada por ser una secuencia de elem
 
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/pilas-y-colas)*
+*[Repositorio](https://github.com/Daviiduhh/pilas-y-colas)*
 
 **Prueba**
 
@@ -348,11 +348,12 @@ Tamano
 
 **Conclusiones**
 
+Las colas son estructuras de datos diseñadas para devolver los elementos ordenados tal como llegan. Este comportamiento FIFO es muy parecido a lo que podemos ver en varios procesos del dia a dia, como las filas de espera, la progrmacion estructurada, y la mayoria de los procesos que vemos.
+
 **Referencias**
 
 https://www.youtube.com/watch?v=hhsa8ENCZls, Cola, Michel
 Davalos Boites.
-
 
 ### Árbol binario de búsqueda
 
@@ -363,7 +364,7 @@ Definición y características de la Estructura de Datos.
 
 **Código** 
 
-*[Repositorio](https://Repositorio.com/Daviiduhh/arbol-busqueda-binaria)*
+*[Repositorio](https://github.com/Daviiduhh/arbol-busqueda-binaria)*
 
 **Prueba**
 
